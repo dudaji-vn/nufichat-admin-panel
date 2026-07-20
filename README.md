@@ -1,3 +1,5 @@
+> **MOVED:** this repo now lives in [dudaji-vn/nufi-app](https://github.com/dudaji-vn/nufi-app) under `apps/admin-panel/`.
+
 # LibreChat Admin Panel
 
 A browser-based management interface for [LibreChat](https://github.com/danny-avila/LibreChat). It connects to the same database as the main application and provides a GUI for tasks that would otherwise require editing `librechat.yaml` directly.
